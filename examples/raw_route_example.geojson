@@ -1,0 +1,19 @@
+
+{
+  "route_version": "1.0",
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-81.0942, 31.9871],
+      [-81.0837, 31.9929],
+      [-81.0722, 31.9993]
+    ]
+  },
+  "properties": {
+    "name": "Example Route",
+    "source": "mobile",
+    "created_at_utc": "2026-02-03T22:15:03Z",
+    "client": { "platform": "ios", "app_version": "0.1.0" }
+  }
+}

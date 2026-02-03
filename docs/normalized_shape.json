@@ -1,0 +1,15 @@
+{
+  "route_version": "1.0",
+  "route_id": "uuid-v4",
+  "normalized": {
+    "spacing_m": 250.0,
+    "total_distance_m": 18234.7,
+    "point_count": 74,
+    "bbox_wgs84": { "min_lat": 31.98, "min_lon": -81.10, "max_lat": 32.00, "max_lon": -81.07 },
+    "points": [
+      { "i": 0, "lat": 31.987100, "lon": -81.094200, "cum_dist_m": 0.0, "seg_dist_m": 0.0, "bearing_deg_true": 58.2 }
+    ]
+  },
+  "source_raw_hash": "sha256:…",
+  "created_at_utc": "2026-02-03T22:15:06Z"
+}
